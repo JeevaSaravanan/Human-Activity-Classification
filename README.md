@@ -1,10 +1,8 @@
 # Human-Activity-Classification
--------------------------
 ![img](https://galliot.us/wp-content/uploads/2022/10/AI-powered-Fitness-Apps.jpg)
 
 
 The objective of this project is to develop an automated system for human pose estimation and activity classification in sports and physical activities, aiming to address the limitations of manual annotation and subjective observation. The project seeks to accurately detect and localize key points on the human body, such as joints and limbs, in images, while also classifying different sports movements or physical activities based on the detected poses. Challenges include handling variations in pose, lighting conditions, occlusions, and backgrounds, as well as ensuring real-time processing capabilities and generalization across different sports and activities. By overcoming these challenges, the project aims to provide a reliable and efficient solution with applications in sports analysis, fitness tracking, physical therapy, and human-computer interaction.
-
 
 
 
@@ -19,3 +17,7 @@ The objective of this project is to develop an automated system for human pose e
 4. Dense Layer: The final layer of the model is a dense (fully connected) layer with 10 units, followed by a softmax activation function. This layer performs classification based on the features learned by the preceding layers. The output dimensionality of 10 suggests that the model is designed for multi-class classification tasks with 10 classes.
 
 ![img](Model-Architecture.jpg)
+
+# Model Evaluation:
+- The model achieved a loss of 0.7967 and an accuracy of 83.48% on the evaluation dataset.
+
