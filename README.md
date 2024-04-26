@@ -21,3 +21,4 @@ The objective of this project is to develop an automated system for human pose e
 # Model Evaluation:
 - The model achieved a loss of 0.7967 and an accuracy of 83.48% on the evaluation dataset.
 
+![img](Accuracy.png) ![img](Loss.png)
