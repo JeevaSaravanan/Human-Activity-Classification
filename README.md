@@ -25,7 +25,8 @@ The objective of this project is to develop an automated system for human pose e
 
 
 ## **Contributors**
-- **Project Owner:** Jeeva Saravana Bhavanandam
+- Jeeva Saravana Bhavanandam
+- Rohan Ponramesh
 
 <div align="center">
 
